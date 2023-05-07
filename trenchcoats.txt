@@ -1,0 +1,16 @@
+S,blue,1111.000000,111111,https://www.johnlewis.com/hobbs-saskia-trench-coat-pale-blue/p6181851
+M,red,43.000000,5,https://www.johnlewis.com/john-lewis-partners-a-line-mac/mid-red/p5610549
+S,black,45.000000,7,https://www.johnlewis.com/john-lewis-partners-a-line-mac/navy/p5610549
+M,blue,21.000000,9,https://www.johnlewis.com/hobbs-saskia-trench-coat-pale-blue/p6181851
+S,brown,3.000000,3,https://www.johnlewis.com/ted-baker-molson-classic-trench-coat/p5107223
+M,black,33.000000,2,https://www.johnlewis.com/john-lewis-partners-a-line-mac/navy/p5610549
+L,blue,32.000000,32,www.google.com
+S,red,99.000000,99,www.google.com
+S,green,56.000000,55,www.google.com
+M,gray,99.000000,99,www.google.com
+L,yellow,22.000000,22,www.google.com
+M,brown,34.000000,34,www.google.com
+S,yellow,33.000000,33,www.google.com
+L,kaki,55.000000,55,www.google.com
+L,purple,1111.000000,111,www.google.com
+L,green,11.000000,35,www.google.com
